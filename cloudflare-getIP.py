@@ -13,7 +13,7 @@ from dnsdumpster.DNSDumpsterAPI import DNSDumpsterAPI
 import dns.resolver
 
 
-#SHODAN_API_KEY = "xxxxxxxxAPI KEY HERE xxxxxxxx"
+SHODAN_API_KEY = "xxxxxxxxAPI KEY HERE xxxxxxxx"
 
 api = shodan.Shodan(SHODAN_API_KEY)
 
