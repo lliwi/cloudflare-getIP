@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+mmh3
+shodan
+colorama
+dnspython
+dnsdumpster
